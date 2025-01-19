@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "https://food-order-server-7l6e.onrender.com";
+export const API_URL = "https://mysql-production-e1db.up.railway.app";
 
 
 export const api = axios.create({
