@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+export const API_URL = "https://food-order-server-production.up.railway.app";
 
 
 export const api = axios.create({
