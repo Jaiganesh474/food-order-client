@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+export const API_URL = "https://food-order-server-7l6e.onrender.com";
 
 
 export const api = axios.create({
